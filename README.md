@@ -12,3 +12,4 @@ Este repositório contém tutoriais de estatística, probabilidade, psicometria 
   * **008 - Distribuições uniforme discreta e uniforme contínua:** apresentação de distribuições uniformes, onde diferentes valores ou intervalos são equiprováveis de serem amostrados;
   * **009 - Distribuições normal e exponencial:** apresentação de duas distribuições contínuas comumente mencionadas em psicologia;
   * **010 - Exercícios clássicos de matemática em Python:** apenas por diversão, que tal resolvermos alguns dos exercícios clássicos que professores de programação passam para seus alunos? =);
+  * **011 - Introdução ao NumPy:** introdução a uma importante biblioteca voltada para computação numérica;
