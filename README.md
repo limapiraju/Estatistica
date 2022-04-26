@@ -13,3 +13,4 @@ Este repositório contém tutoriais de estatística, probabilidade, psicometria 
   * **009 - Distribuições normal e exponencial:** apresentação de duas distribuições contínuas comumente mencionadas em psicologia;
   * **010 - Exercícios clássicos de matemática em Python:** apenas por diversão, que tal resolvermos alguns dos exercícios clássicos que professores de programação passam para seus alunos? =);
   * **011 - Introdução ao NumPy:** introdução a uma importante biblioteca voltada para computação numérica;
+  * **012 - Abordagem de grupos extremos (EGA):** a simulação contida neste *notebook* replica boa parte das simulações apresentadas por Preacher et al. (2015);
