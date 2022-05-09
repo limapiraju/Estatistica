@@ -16,3 +16,4 @@ Este repositório contém tutoriais de estatística, probabilidade, psicometria 
   * **012 - Abordagem de grupos extremos (EGA):** a simulação contida neste *notebook* replica boa parte das simulações apresentadas por Preacher et al. (2015);
   * **013 - Stimulus sampling theory:** aqui brinco um pouco com a descrição de Estes (1955a) sobre sua teoria, tentando replicar e entender os padrões previstos por seu modelo matemático;
   * **014 - Estimadores enviesado e não-enviesado da variância populacional:** breve demonstração da afirmação de que a fórmula da variância com *N* – 1 no denominador é um estimador não-enviesado da variância populacional, enquanto a fórmula da variância com *N* no denominador é um estimador enviesado da variância populacional;
+  *  **015 - Psicofísica:** alguns exemplos em Python do que é apresentado no Capítulo 2 de Nunnally e Bernstein (1994);
